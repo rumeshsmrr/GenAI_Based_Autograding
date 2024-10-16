@@ -1,1 +1,1 @@
-# Technical based Subjects essay type assignments autograding.
+# Technical based subjects essay type assignments autograding.
